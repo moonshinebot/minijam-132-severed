@@ -1,0 +1,44 @@
+{ "frames": {
+   "sheet": {
+    "frame": { "x": 0, "y": 0, "w": 90, "h": 45 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 54, "y": 36, "w": 90, "h": 45 },
+    "sourceSize": { "w": 213, "h": 120 },
+    "duration": 500
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "assistant-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 90, "h": 45 },
+  "scale": "1",
+  "slices": [
+   { "name": "head", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 90, "y": 36, "w": 27, "h": 9 } }] },
+   { "name": "dress_top", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 117, "y": 36, "w": 9, "h": 9 } }] },
+   { "name": "dress_middle", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 117, "y": 45, "w": 9, "h": 9 } }] },
+   { "name": "dress_bottom", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 117, "y": 54, "w": 9, "h": 9 } }] },
+   { "name": "body_top", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 126, "y": 36, "w": 9, "h": 9 } }] },
+   { "name": "body_middle", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 126, "y": 45, "w": 9, "h": 9 } }] },
+   { "name": "body_bottom", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 126, "y": 54, "w": 9, "h": 9 } }] },
+   { "name": "leg_se_outer", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 72, "y": 45, "w": 9, "h": 9 } }] },
+   { "name": "leg_sw_outer", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 81, "y": 45, "w": 9, "h": 9 } }] },
+   { "name": "leg_nw_outer", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 81, "y": 54, "w": 9, "h": 9 } }] },
+   { "name": "leg_ne_outer", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 72, "y": 54, "w": 9, "h": 9 } }] },
+   { "name": "leg_sw_inner", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 63, "y": 45, "w": 9, "h": 9 } }] },
+   { "name": "leg_nw_inner", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 63, "y": 54, "w": 9, "h": 9 } }] },
+   { "name": "leg_se_inner", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 54, "y": 45, "w": 9, "h": 9 } }] },
+   { "name": "leg_ne_inner", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 54, "y": 54, "w": 9, "h": 9 } }] },
+   { "name": "leg_vertical_left", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 54, "y": 63, "w": 9, "h": 9 } }] },
+   { "name": "leg_vertical_right", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 63, "y": 63, "w": 9, "h": 9 } }] },
+   { "name": "leg_horizontal_top", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 54, "y": 72, "w": 9, "h": 9 } }] },
+   { "name": "leg_horizontal_bottom", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 63, "y": 72, "w": 9, "h": 9 } }] },
+   { "name": "shoe_n_left", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 72, "y": 72, "w": 18, "h": 9 } }] },
+   { "name": "shoe_n_right", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 90, "y": 72, "w": 18, "h": 9 } }] },
+   { "name": "dress_corner", "color": "#0000ffff", "keys": [{ "frame": 5, "bounds": {"x": 135, "y": 45, "w": 9, "h": 9 } }] },
+   { "name": "body_corner", "color": "#0000ffff", "keys": [{ "frame": 5, "bounds": {"x": 135, "y": 54, "w": 9, "h": 9 } }] }
+  ]
+ }
+}
