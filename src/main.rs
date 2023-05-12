@@ -6,7 +6,7 @@ use crate::camera_fader::CameraFader;
 
 mod stage;
 mod camera;
-mod sprites;
+mod assistant;
 mod camera_fader;
 
 fn main() {
